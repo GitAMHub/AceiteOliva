@@ -19,7 +19,10 @@ El Ministerio de Agricultura de España indica en su [página web de precios med
 **Concepto**
 
 - Los Precios Medios son indicadores semanales de precios medios nacionales de los productos agrarios que tienen más relevancia a nivel nacional.  
-Metodología
+
+
+**Metodología**
+
 - Son precios medios ponderados obtenidos a partir de las cotizaciones registradas en los mercados de mayor representatividad a nivel nacional, a los que se les asignan coeficientes de ponderación fijos establecidos en función de la importancia de cada mercado en la comercialización de cada producto.  
 
 **[Precios Medios Nacionales (Metodología)](http://www.mapama.gob.es/estadistica/pags/precios-medios-nacionales/Metodologia.pdf)**
